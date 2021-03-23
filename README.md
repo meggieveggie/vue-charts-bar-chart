@@ -1,4 +1,4 @@
-# chart-poc
+# Bar Chart POC
 
 ## Project setup
 ```
